@@ -63,4 +63,5 @@ class MainActivity : AppCompatActivity() {
         return false
     }
 //    tghis is to verify the git working
+//    this is to test git clone
 }
